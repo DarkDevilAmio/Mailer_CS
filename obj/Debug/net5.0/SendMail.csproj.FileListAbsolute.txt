@@ -1,0 +1,16 @@
+/home/darkdevil/Desktop/C#/SendMail/bin/Debug/net5.0/SendMail
+/home/darkdevil/Desktop/C#/SendMail/bin/Debug/net5.0/SendMail.deps.json
+/home/darkdevil/Desktop/C#/SendMail/bin/Debug/net5.0/SendMail.runtimeconfig.json
+/home/darkdevil/Desktop/C#/SendMail/bin/Debug/net5.0/SendMail.runtimeconfig.dev.json
+/home/darkdevil/Desktop/C#/SendMail/bin/Debug/net5.0/SendMail.dll
+/home/darkdevil/Desktop/C#/SendMail/bin/Debug/net5.0/ref/SendMail.dll
+/home/darkdevil/Desktop/C#/SendMail/bin/Debug/net5.0/SendMail.pdb
+/home/darkdevil/Desktop/C#/SendMail/obj/Debug/net5.0/SendMail.csprojAssemblyReference.cache
+/home/darkdevil/Desktop/C#/SendMail/obj/Debug/net5.0/SendMail.GeneratedMSBuildEditorConfig.editorconfig
+/home/darkdevil/Desktop/C#/SendMail/obj/Debug/net5.0/SendMail.AssemblyInfoInputs.cache
+/home/darkdevil/Desktop/C#/SendMail/obj/Debug/net5.0/SendMail.AssemblyInfo.cs
+/home/darkdevil/Desktop/C#/SendMail/obj/Debug/net5.0/SendMail.csproj.CoreCompileInputs.cache
+/home/darkdevil/Desktop/C#/SendMail/obj/Debug/net5.0/SendMail.dll
+/home/darkdevil/Desktop/C#/SendMail/obj/Debug/net5.0/ref/SendMail.dll
+/home/darkdevil/Desktop/C#/SendMail/obj/Debug/net5.0/SendMail.pdb
+/home/darkdevil/Desktop/C#/SendMail/obj/Debug/net5.0/SendMail.genruntimeconfig.cache
